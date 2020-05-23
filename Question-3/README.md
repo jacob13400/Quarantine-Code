@@ -11,8 +11,8 @@ Each of the following R rows contain exactly C characters. Characters can be '.'
 
 ### Constraints:
 
-Time Limit: 1 second
-1 <= R
+Time Limit: 1 second  
+1 <= R  
 C <= 400
 
 ### Output format:
