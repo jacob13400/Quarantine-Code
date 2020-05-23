@@ -5,9 +5,12 @@ The event was conducted on April 6, 2020 in collaboration with Coding Ninjas.
 
 Link for the Event [here](https://www.codingninjas.com/events/quarantine-code)
 
-Solutions
+Solutions  
 
-[Question 1](https://www.codingninjas.com/events/quarantine-code)
-[Question 2](https://www.codingninjas.com/events/quarantine-code)
-[Question 3](https://www.codingninjas.com/events/quarantine-code)
-[MCQs](https://www.codingninjas.com/events/quarantine-code)
+[Question 1](https://github.com/ieeecscet/Quarantine-Code/tree/master/Question-1)  
+
+[Question 2](https://github.com/ieeecscet/Quarantine-Code/tree/master/Question-2)  
+
+[Question 3](https://github.com/ieeecscet/Quarantine-Code/tree/master/Question-3)  
+
+[MCQs](https://github.com/ieeecscet/Quarantine-Code/tree/master/MCQs)
