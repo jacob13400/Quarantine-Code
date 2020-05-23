@@ -1,0 +1,21 @@
+# Question
+
+Mr. Ankush gave an assignment to Parikh and Navdeep. Parikh and Navdeep can complete that assignment in 28 days. 
+With the help of an intern, they can finish it in 21 days. 
+If the complete assignment was to be done by an intern, how long will the intern take to complete the assignment?
+
+# Options
+
+1. 75 days
+2. 80 days
+3. 84 days
+4. 70 days
+
+# Solution
+
+Ans : 2
+
+Assuming x, y, z are units of work done by Parikh, Navdeep and Intern in one day and total work be 100 units of work,
+the equation would become: 28 * (x + y) = 100. x+y becomes 100/28. Now, it is also given that 21 * ( x+ y+ z) = 100.
+Solving for z, we get, z = 25/21 units of work. If the intern does 25/21 units of work in one day, then by unitary method,
+it will do 100 units of work in 84 days. 

@@ -1,0 +1,17 @@
+# Question
+
+Mandeep is good at juggling things and multitasking. 
+That’s why he was assigned three tasks for which time allotted was in the ratio 5: 4: 2. The tasks were to be done individually. 
+Right at the moment, the internet connection went off. This turned off his interest. He would now give only 40%, 30%, 20% of the hours 
+that were actually assigned to him to these tasks individually. Figure out what percentage of time did he put in out of the time he was allotted.
+
+# Options
+
+1. 38.33%
+2. 39.4545%
+3. 32.72%
+4. 36.66%
+
+# Solution
+
+Ans : 3  

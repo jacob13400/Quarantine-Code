@@ -1,4 +1,4 @@
-#Question
+# Question
 
 There is a narrow escape. Only one cow can pass through it or one row of cows can pass through it. One row of cows means 'n' cows are arranged in such a way that each cow, except the first cow, is behind another cow.  
 
@@ -7,22 +7,22 @@ One row of cows can easily pass through the passage. The rows of cows move from 
 In such a case, in each second, one cow jumps over the other, in such a way, places of both cows are swapped (both the cows are still moving in opposite direction).
 We want to know the order of cows after T seconds.
 
-###Input format:
+### Input format:
 
 The first line of input contains two integers N1 and N2, the number of cows in each row. 
 The following two lines of input contains order of cows in those rows. Each cow is uniquely characterised by an uppercase letter. This letter is unique between both rows of column.
 The last line of input contains a integer T.  
 
-###Constraints
+### Constraints
 
 Time Limit: 1 second  
 0 <= T <= 50
 
-###Output Format:
+### Output Format:
 
 Print the order of cows as explained in the task. Our viewpoint is such that the first row of cows comes from our left side and the other one from our right side. 
 
-####Sample Input:
+#### Sample Input:
 
 ```
 3 3
@@ -31,13 +31,13 @@ DEF
 2
 ```
 
-####Sample Output:
+#### Sample Output:
 
 ```
  CDBEAF
 ```
 
-####Explanation:
+#### Explanation:
 
 1st row of cows, which comes from left side, is: CBA (this order is written as per the viewpoint), with cow named A leading the pack.  
 

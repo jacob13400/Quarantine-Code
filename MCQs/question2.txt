@@ -1,0 +1,19 @@
+# Question
+
+Prof. Ankush writes a research paper on the availability of the internet and other related services in rural areas.
+He wants to share his research with Prof Kannu. There is a small bottleneck. He is in a remote area. 
+Letters are only a medium of communication. So, he writes a letter to his friend. 
+The postal department tells him that on an average, 1 out of n letters posted does not reach it’s desired location. 
+Now, if Ankush doesn’t receive the reply to his letter, then what is the probability that Kannu did not receive Ankush’s letter. 
+You can safely assume that postal services are perfect at Kannu’s residence and he will definitely reply to Ankush’s letter if he receives it.
+
+# Options
+
+1. n/(2*n-1)
+2. 1/2
+3. 1/n
+4. (n-1)/n
+
+# Solution
+
+Ans : 1

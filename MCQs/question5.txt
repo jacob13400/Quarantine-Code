@@ -1,0 +1,28 @@
+# Question
+
+In a college, 4 students are from engineering department and 4 are from management. 
+Name of engineering students are - Parikh, Navdeep, Vidit ad Jaideep and name of management students are - Ananya, Yaman, Ritika and Sumeet. 
+Each of the student is part of one of three societies in college - EdTech, Orators and Mavericks. In their free time, 
+all of the 8 students love playing sports and they all have a favorite sport among Cricket, Badminton and Table Tennis and they have a hatred towards one different sport. 
+Given is the information about all 8 students -
+
+    1. Out of all, 3 students are from EdTech society, 3 students are from Orators and remaining 2 students (both engineering students) are from Mavericks 
+    2. Both the management students from Orators hate Table Tennis and one engineering student from Orators loves Badminton
+    3. Only one management student loves Badminton, while three engineering students hate Cricket. 
+    4. One engineering and two management students love Table Tennis. 
+    5. Parikh and Sumeet are from the same society. Jaideep and Ananya are from the same society.
+    6. Yaman is from Orators and loves Badminton. Ritika is from EdTech and loves Table Tennis. 
+    7. Jaideep hates Badminton.
+
+Which sport does Sumeet hates ?
+
+# Options
+
+1. Badminton
+2. Cricket
+3. Table Tennis
+4. Cannot be determined
+
+# Solution
+
+Ans : 3
