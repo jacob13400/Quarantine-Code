@@ -15,11 +15,11 @@ The following R lines contains C space separated characters.
 
 ### Constraints:
 
-Time Limit: 1 second
-1 <= R
-C <= 50 
-1 <= ZR
-ZC <= 5
+Time Limit: 1 second  
+1 <= R  
+C <= 50  
+1 <= ZR    
+ZC <= 5  
 
 ### Output format:
 
